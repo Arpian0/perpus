@@ -1729,3 +1729,900 @@ in APPPATH\Views\dashboard\anggota.php on line 29.
  8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
  9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
 10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:51 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:51 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:51 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:51 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:52 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:53 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:53 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:53 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:56 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:57 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:58 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:59 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:59 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:59 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:59 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:55:59 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:56:00 --> Invalid file: "image/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image/index', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:56:07 --> Invalid file: "image.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:56:08 --> Invalid file: "image.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:56:08 --> Invalid file: "image.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:56:09 --> Invalid file: "image.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:56:10 --> Invalid file: "image.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:56:10 --> Invalid file: "image.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('image.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('image', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('image')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:57:07 --> Invalid file: "store.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('store.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('store', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('store')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:57:08 --> Invalid file: "store.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('store.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('store', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('store')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:57:08 --> Invalid file: "store.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('store.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('store', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('store')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:57:08 --> Invalid file: "store.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('store.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('store', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('store')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:57:08 --> Invalid file: "store.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('store.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('store', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(27): view('store')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:15:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:15:01 --> Undefined variable $pager
+in APPPATH\Views\images\index.php on line 78.
+ 1 APPPATH\Views\images\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('images/index', [], true)
+ 5 APPPATH\Views\dashboard\anggota.php(29): view('images/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:15:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:15:02 --> Undefined variable $pager
+in APPPATH\Views\images\index.php on line 78.
+ 1 APPPATH\Views\images\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('images/index', [], true)
+ 5 APPPATH\Views\dashboard\anggota.php(29): view('images/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:15:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:15:02 --> Undefined variable $pager
+in APPPATH\Views\images\index.php on line 78.
+ 1 APPPATH\Views\images\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('images/index', [], true)
+ 5 APPPATH\Views\dashboard\anggota.php(29): view('images/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:15:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:15:02 --> Undefined variable $pager
+in APPPATH\Views\images\index.php on line 78.
+ 1 APPPATH\Views\images\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('images/index', [], true)
+ 5 APPPATH\Views\dashboard\anggota.php(29): view('images/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:15:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:15:03 --> Undefined variable $pager
+in APPPATH\Views\images\index.php on line 78.
+ 1 APPPATH\Views\images\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('images/index', [], true)
+ 5 APPPATH\Views\dashboard\anggota.php(29): view('images/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:15:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:15:03 --> Undefined variable $pager
+in APPPATH\Views\images\index.php on line 78.
+ 1 APPPATH\Views\images\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('images/index', [], true)
+ 5 APPPATH\Views\dashboard\anggota.php(29): view('images/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:15:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:15:03 --> Undefined variable $pager
+in APPPATH\Views\images\index.php on line 78.
+ 1 APPPATH\Views\images\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('images/index', [], true)
+ 5 APPPATH\Views\dashboard\anggota.php(29): view('images/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:15:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:15:04 --> Undefined variable $pager
+in APPPATH\Views\images\index.php on line 78.
+ 1 APPPATH\Views\images\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('images/index', [], true)
+ 5 APPPATH\Views\dashboard\anggota.php(29): view('images/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:15:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:15:06 --> Undefined variable $pager
+in APPPATH\Views\images\index.php on line 78.
+ 1 APPPATH\Views\images\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('images/index', [], true)
+ 5 APPPATH\Views\dashboard\anggota.php(29): view('images/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:15:07 --> Undefined variable $pager
+in APPPATH\Views\images\index.php on line 78.
+ 1 APPPATH\Views\images\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('images/index', [], true)
+ 5 APPPATH\Views\dashboard\anggota.php(29): view('images/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:15:09 --> Undefined variable $pager
+in APPPATH\Views\images\index.php on line 78.
+ 1 APPPATH\Views\images\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('images/index', [], true)
+ 5 APPPATH\Views\dashboard\anggota.php(29): view('images/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:15:09 --> Undefined variable $pager
+in APPPATH\Views\images\index.php on line 78.
+ 1 APPPATH\Views\images\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('images/index', [], true)
+ 5 APPPATH\Views\dashboard\anggota.php(29): view('images/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:15:10 --> Undefined variable $pager
+in APPPATH\Views\images\index.php on line 78.
+ 1 APPPATH\Views\images\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('images/index', [], true)
+ 5 APPPATH\Views\dashboard\anggota.php(29): view('images/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:15:10 --> Undefined variable $pager
+in APPPATH\Views\images\index.php on line 78.
+ 1 APPPATH\Views\images\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('images/index', [], true)
+ 5 APPPATH\Views\dashboard\anggota.php(29): view('images/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:15:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:15:15 --> Undefined variable $pager
+in APPPATH\Views\images\index.php on line 78.
+ 1 APPPATH\Views\images\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php', 78)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\images\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('images/index', [], true)
+ 5 APPPATH\Views\dashboard\anggota.php(29): view('images/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:15:47 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:15:47 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:15:47 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:15:48 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:16:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:16:30 --> include(views/images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(views/images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:16:31 --> include(views/images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(views/images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:16:31 --> include(views/images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(views/images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:16:31 --> include(views/images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(views/images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:16:32 --> include(views/images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(views/images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:16:32 --> include(views/images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(views/images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:16:34 --> include(views/images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(views/images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:16:35 --> include(views/images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(views/images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:16:35 --> include(views/images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(views/images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:16:36 --> include(views/images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(views/images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:16:42 --> include(/views/images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(/views/images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:16:42 --> include(/views/images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(/views/images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 12:16:42 --> include(/views/images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(/views/images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:18:14 --> Undefined variable $pager
+in APPPATH\Views\dashboard\images.php on line 78.
+ 1 APPPATH\Views\dashboard\images.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php', 78)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:18:14 --> Undefined variable $pager
+in APPPATH\Views\dashboard\images.php on line 78.
+ 1 APPPATH\Views\dashboard\images.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php', 78)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:18:14 --> Undefined variable $pager
+in APPPATH\Views\dashboard\images.php on line 78.
+ 1 APPPATH\Views\dashboard\images.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php', 78)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:18:15 --> Undefined variable $pager
+in APPPATH\Views\dashboard\images.php on line 78.
+ 1 APPPATH\Views\dashboard\images.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php', 78)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:18:15 --> Undefined variable $pager
+in APPPATH\Views\dashboard\images.php on line 78.
+ 1 APPPATH\Views\dashboard\images.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php', 78)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:18:15 --> Undefined variable $pager
+in APPPATH\Views\dashboard\images.php on line 78.
+ 1 APPPATH\Views\dashboard\images.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php', 78)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:18:15 --> Undefined variable $pager
+in APPPATH\Views\dashboard\images.php on line 78.
+ 1 APPPATH\Views\dashboard\images.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php', 78)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:18:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:18:16 --> Undefined variable $pager
+in APPPATH\Views\dashboard\images.php on line 78.
+ 1 APPPATH\Views\dashboard\images.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php', 78)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:18:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:18:17 --> Undefined variable $pager
+in APPPATH\Views\dashboard\images.php on line 78.
+ 1 APPPATH\Views\dashboard\images.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php', 78)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:18:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:18:20 --> Undefined variable $pager
+in APPPATH\Views\dashboard\images.php on line 78.
+ 1 APPPATH\Views\dashboard\images.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php', 78)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:18:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:18:20 --> Undefined variable $pager
+in APPPATH\Views\dashboard\images.php on line 78.
+ 1 APPPATH\Views\dashboard\images.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php', 78)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:18:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:18:20 --> Undefined variable $pager
+in APPPATH\Views\dashboard\images.php on line 78.
+ 1 APPPATH\Views\dashboard\images.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php', 78)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:18:21 --> Undefined variable $pager
+in APPPATH\Views\dashboard\images.php on line 78.
+ 1 APPPATH\Views\dashboard\images.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php', 78)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:18:37 --> Undefined variable $pager
+in APPPATH\Views\dashboard\images.php on line 78.
+ 1 APPPATH\Views\dashboard\images.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php', 78)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 12:18:37 --> Undefined variable $pager
+in APPPATH\Views\dashboard\images.php on line 78.
+ 1 APPPATH\Views\dashboard\images.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php', 78)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\images.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-18 12:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 12:19:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 12:19:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 12:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 12:19:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
