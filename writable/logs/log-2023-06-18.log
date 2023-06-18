@@ -1326,3 +1326,406 @@ INFO - 2023-06-18 10:44:32 --> Session: Class initialized using 'CodeIgniter\Ses
 INFO - 2023-06-18 10:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 INFO - 2023-06-18 10:50:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 INFO - 2023-06-18 10:51:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 10:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:01:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:01:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:01:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:02:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:02:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:03:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:03:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:04:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:04:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:06:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:17:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:20:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:21:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:28:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:28:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:28:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:31:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:31:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:31:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:31:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:31:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:32:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:32:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:34:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:34:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:34:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:34:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:36:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:37:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:37:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:37:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:37:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:37:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:37:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:37:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:37:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:43:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:43:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:43:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:44:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:44:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:44:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:44:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:44:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:44:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:44:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:45:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:45:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:45:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:47:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:47:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:47:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:48:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:48:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:48:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:48:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:48:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:48:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:48:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:49:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:49:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:49:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:49:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:49:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:49:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:49:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:49:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:50:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:52:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:52:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-18 11:52:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-18 11:52:17 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 34.
+ 1 APPPATH\Views\dashboard\anggota.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 34)
+ 2 APPPATH\Views\dashboard\anggota.php(34): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:52:18 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 34.
+ 1 APPPATH\Views\dashboard\anggota.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 34)
+ 2 APPPATH\Views\dashboard\anggota.php(34): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:52:18 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 34.
+ 1 APPPATH\Views\dashboard\anggota.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 34)
+ 2 APPPATH\Views\dashboard\anggota.php(34): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:52:19 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 34.
+ 1 APPPATH\Views\dashboard\anggota.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 34)
+ 2 APPPATH\Views\dashboard\anggota.php(34): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:52:22 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 34.
+ 1 APPPATH\Views\dashboard\anggota.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 34)
+ 2 APPPATH\Views\dashboard\anggota.php(34): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:52:24 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 34.
+ 1 APPPATH\Views\dashboard\anggota.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 34)
+ 2 APPPATH\Views\dashboard\anggota.php(34): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:52:30 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 34.
+ 1 APPPATH\Views\dashboard\anggota.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 34)
+ 2 APPPATH\Views\dashboard\anggota.php(34): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:52:30 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 34.
+ 1 APPPATH\Views\dashboard\anggota.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 34)
+ 2 APPPATH\Views\dashboard\anggota.php(34): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:52:31 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 34.
+ 1 APPPATH\Views\dashboard\anggota.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 34)
+ 2 APPPATH\Views\dashboard\anggota.php(34): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:52:31 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 34.
+ 1 APPPATH\Views\dashboard\anggota.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 34)
+ 2 APPPATH\Views\dashboard\anggota.php(34): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:52:31 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 34.
+ 1 APPPATH\Views\dashboard\anggota.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 34)
+ 2 APPPATH\Views\dashboard\anggota.php(34): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:52:31 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 34.
+ 1 APPPATH\Views\dashboard\anggota.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 34)
+ 2 APPPATH\Views\dashboard\anggota.php(34): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:52:59 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:53:00 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:53:00 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:53:00 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:53:00 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:53:00 --> include(images/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(images/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:53:28 --> include(image/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(image/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:53:28 --> include(image/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(image/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:53:28 --> include(image/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(image/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-18 11:53:31 --> include(image/index.php): Failed to open stream: No such file or directory
+in APPPATH\Views\dashboard\anggota.php on line 29.
+ 1 APPPATH\Views\dashboard\anggota.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(image/index.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php', 29)
+ 2 APPPATH\Views\dashboard\anggota.php(29): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\perpus\\app\\Views\\dashboard\\anggota.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard/anggota', [], true)
+ 6 APPPATH\Controllers\Dashboard.php(26): view('dashboard/anggota')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->anggota()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

@@ -72,4 +72,29 @@ class ImageController extends BaseController
         session()->setFlashdata('error', $this->validator->getErrors());
         return redirect()->back();
     }
+    public function destroy($id)
+    {
+        $image = $this->model->find($id);
+
+        if ($image) {
+            $filePath = ROOTPATH . 'public/uploads/' . $image['path'];
+
+            if (file_exists($filePath)) {
+                unlink($filePath);
+            }
+
+            $delete = $this->model->delete($id);
+
+            if ($delete) {
+                return redirect()->to(base_url('image'))
+                    ->with('success', 'Image deleted');
+            } else {
+                return redirect()->to(base_url('image'))
+                    ->with('error', 'Failed to delete image');
+            }
+        }
+
+        return redirect()->to(base_url('image'))
+            ->with('error', 'Image not found');
+    }
 }

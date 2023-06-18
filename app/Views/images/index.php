@@ -37,6 +37,7 @@
             <?php if (!empty($images) && is_array($images)) { ?>
                 <?php foreach ($images as $row) { ?>
                     <div class="col-md-4">
+                        <a href="<?php echo base_url('destroy' . $row['id']); ?>" class="btn btn-danger btn-sm" onclick="return confirm('kamu yakin?');">Delete</a>
                         <div class="card mb-4 shadow">
                             <img src="<?php echo base_url('uploads/' . $row['path']); ?>" class="card-img-top" style="height: 500px; width:100%; object-fit: cover;">
                             <div class="card-body">

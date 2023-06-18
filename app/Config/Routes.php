@@ -56,6 +56,7 @@ $routes->post('proses', 'UploadController::proses');
 $routes->match(['get', 'post'], 'upload/delete/(:num)', 'UploadController::delete/$1');
 
 $routes->get('/', 'ImageController::index');
+$routes->post('destroy', 'ImageController::destroy');
 $routes->group('image', function ($routes) {
     $routes->get('/', 'ImageController::index');
     $routes->get('create', 'ImageController::create'); //tambahkan kode ini
