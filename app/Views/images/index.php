@@ -3,7 +3,7 @@
 <?= $this->section('content') ?>
 <section class="jumbotron text-center bg-white">
     <div class="container">
-        <h1 class="jumbotron-heading">Image Gallery</h1>
+        <h1 class="jumbotron-heading">My Gallery</h1>
         <p class="lead text-muted">
             Collection of high quality images and pictures.
         </p>
@@ -38,7 +38,7 @@
                 <?php foreach ($images as $row) { ?>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow">
-                            <img src="<?php echo base_url('uploads/' . $row['path']); ?>" class="card-img-top" style="height: 300px; width:100%; object-fit: cover;">
+                            <img src="<?php echo base_url('uploads/' . $row['path']); ?>" class="card-img-top" style="height: 500px; width:100%; object-fit: cover;">
                             <div class="card-body">
                                 <p class="card-text">
                                     <?php echo $row['caption']; ?>
