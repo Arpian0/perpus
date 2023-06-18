@@ -50,6 +50,17 @@ $routes->get('/login', 'LoginController::index');
 $routes->get('/logout', 'LoginController::logout');
 $routes->post('/login', 'LoginController::doLogin');
 
+$routes->get('upload', 'UploadController::index');
+$routes->post('proses', 'UploadController::proses');
+// $routes->post('upload/delete/(:num)', 'UploadController::delete/$1');
+$routes->match(['get', 'post'], 'upload/delete/(:num)', 'UploadController::delete/$1');
+
+$routes->get('/', 'ImageController::index');
+$routes->group('image', function ($routes) {
+    $routes->get('/', 'ImageController::index');
+    $routes->get('create', 'ImageController::create'); //tambahkan kode ini
+    $routes->post('/', 'ImageController::store'); //tambahkan kode ini
+});
 
 
 
