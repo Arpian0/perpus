@@ -27,23 +27,15 @@
     }
 </style>
 
-<?php include('header.php'); ?>
 
-<div class="container">
-    <div class="sidebar" id="sidebar">
-        <?php include('sidebar.php'); ?>
-    </div>
-    <div class="content" id="content">
-        <h2>Admin</h2>
-        <p>Ini adalah halaman dashboard perpustakaan.</p>
-        <ul>
-            <li id="menu-dashboard"><a href="anggota">Anggota</a></li>
-            <li id="menu-profile"><a href="buku">Buku</a></li>
-            <li id="menu-settings"><a href="kategori">Kategori</a></li>
-        </ul>
+<div class="content" id="content">
+    <h2>Admin</h2>
+    <p>Ini adalah halaman dashboard perpustakaan.</p>
+    <ul>
+        <li id="menu-dashboard"><a href="anggota">Anggota</a></li>
+        <li id="menu-profile"><a href="buku">Buku</a></li>
+        <li id="menu-settings"><a href="kategori">Kategori</a></li>
+    </ul>
 
-        <script src="/app/java/menu.js"></script>
-    </div>
+    <script src="/app/java/menu.js"></script>
 </div>
-
-<?php include('footer.php'); ?>

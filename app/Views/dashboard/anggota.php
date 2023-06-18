@@ -27,16 +27,7 @@
     }
 </style>
 
-<?php include('header.php'); ?>
-
-<div class="container">
-    <div class="sidebar" id="sidebar">
-        <?php include('sidebar.php'); ?>
-    </div>
-    <div class="content" id="content">
-        <h2>Anggota</h2>
-        <p>Ini adalah halaman dashboard perpustakaan.</p>
-    </div>
+<div class="content" id="content">
+    <h2>Anggota</h2>
+    <p>Ini adalah halaman dashboard perpustakaan.</p>
 </div>
-
-<?php include('footer.php'); ?>

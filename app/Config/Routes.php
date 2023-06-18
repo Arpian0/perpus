@@ -38,12 +38,17 @@ $routes->post('signup', 'SignupController::signup');
 $routes->get('signup_success', 'SignupController::signupSuccess');
 
 $routes->get('dashboard', 'Dashboard::index');
+$routes->get('body', 'Dashboard::body');
 $routes->get('admin', 'Dashboard::admin');
 $routes->get('anggota', 'Dashboard::anggota');
 $routes->get('buku', 'Dashboard::buku');
 $routes->get('kategori', 'Dashboard::kategori');
 $routes->get('peminjaman', 'Dashboard::peminjaman');
 $routes->get('pengembalian', 'Dashboard::pengembalian');
+
+$routes->get('/login', 'LoginController::index');
+$routes->get('/logout', 'LoginController::logout');
+$routes->post('/login', 'LoginController::doLogin');
 
 
 

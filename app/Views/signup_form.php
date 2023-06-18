@@ -47,11 +47,15 @@
         button[type="submit"]:hover {
             background-color: #45a049;
         }
+
+        .content {
+            padding: 35%;
+            margin-top: -35%;
+        }
     </style>
 </head>
 
 <body>
-    <h1>Signup Form</h1>
     <?php if (session()->getFlashdata('errors')) : ?>
         <div style="color: red;">
             <?php foreach (session()->getFlashdata('errors') as $error) : ?>
@@ -59,7 +63,8 @@
             <?php endforeach; ?>
         </div>
     <?php endif; ?>
-    <form id="signup-form" method="post" action="<?= site_url('signup') ?>">
+    <form class="content" id="signup-form" method="post" action="<?= site_url('signup') ?>">
+        <h1>Signup Form</h1>
         <div class="form-group">
             <label for="nama">Nama Lengkap</label>
             <input type="text" id="nama" name="nama" value="<?= old('nama') ?>" required>

@@ -11,33 +11,38 @@ class Dashboard extends Controller
         return view('dashboard/index');
     }
 
+    public function body()
+    {
+        echo view('dashboard/body');
+    }
+
     public function admin()
     {
-        return view('dashboard/admin');
+        echo view('dashboard/admin');
     }
 
     public function anggota()
     {
-        return view('dashboard/anggota');
+        echo view('dashboard/anggota');
     }
 
     public function buku()
     {
-        return view('dashboard/buku');
+        echo view('dashboard/buku');
     }
 
     public function kategori()
     {
-        return view('dashboard/kategori');
+        echo view('dashboard/kategori');
     }
 
     public function peminjaman()
     {
-        return view('dashboard/peminjaman');
+        echo view('dashboard/peminjaman');
     }
 
     public function pengembalian()
     {
-        return view('dashboard/pengembalian');
+        echo view('dashboard/pengembalian');
     }
 }

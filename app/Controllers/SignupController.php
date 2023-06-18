@@ -41,6 +41,6 @@ class SignupController extends Controller
 
     public function signupSuccess()
     {
-        return view('dashboard/index');
+        return view('login');
     }
 }

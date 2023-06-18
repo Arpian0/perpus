@@ -64,6 +64,10 @@
                 margin-bottom: 2%;
             }
         }
+
+        .text {
+            color: #f1f1f1;
+        }
     </style>
 </head>
 
@@ -71,6 +75,7 @@
     <header>
         <i class="material-icons">dashboard</i>
         <h1>Header</h1>
+        <a class="text" href="logout">Logout</a>
     </header>
 
     <script>

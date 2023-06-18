@@ -1,6 +1,6 @@
 <div class="sidebar" id="sidebar">
     <ul class="menu">
-        <li class="active"><a href="dashboard">Dashboard</a></li>
+        <li class="active"><a href="body">Dashboard</a></li>
         <li><a href="admin">Admin</a></li>
         <li><a href="anggota">Anggota</a></li>
         <li><a href="buku">Buku</a></li>
