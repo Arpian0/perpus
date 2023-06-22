@@ -1,15 +1,15 @@
 <?= $this->extend('layouts/main') ?>
 
 <?= $this->section('content') ?>
-<section class="jumbotron text-center bg-white">
+<section class="jumbotron text-center bg-info">
     <div class="container">
-        <h1 class="jumbotron-heading">My Gallery</h1>
-        <p class="lead text-muted">
-            Collection of high quality images and pictures.
+        <h1 class="jumbotron-heading">Gallery Amikom</h1>
+        <p class="lead text-heading">
+            Barang Kamu Hilang di Amikom.
         </p>
         <p>
             <a href="<?php echo base_url('image/create'); ?>" class="btn btn-primary btn-sm my-2">
-                Upload New Image
+                Masukkan Gambar Disini
             </a>
         </p>
     </div>

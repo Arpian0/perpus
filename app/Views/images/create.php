@@ -6,9 +6,9 @@
         <div class="col-md-12">
             <div class="card">
                 <div class="card-header">
-                    Upload New Image
-                    <a href="<?php echo base_url('image'); ?>" class="btn btn-link btn-sm float-right">
-                        Back
+                    Masukkan Gambar Baru
+                    <a href="<?php echo base_url('image'); ?>" class="btn btn-success btn-sm float-right">
+                        Kembali
                     </a>
                 </div>
                 <div class="card-body">
@@ -29,15 +29,15 @@
 
                     <?= form_open_multipart('image'); ?>
                     <div class="form-group">
-                        <label for="image">Image</label>
+                        <label for="image">Gambar Kamu</label>
                         <input type="file" name="image" class="form-control">
                     </div>
                     <div class="form-group">
-                        <label for="caption">Caption</label>
+                        <label for="caption">Keterangan</label>
                         <textarea name="caption" id="" cols="30" rows="10" class="form-control"></textarea>
                     </div>
                     <div class="form-group">
-                        <button class="btn btn-primary btn-sm">Upload</button>
+                        <button class="btn btn-primary btn-sm"></button>
                     </div>
                     <?= form_close(); ?>
                 </div>
