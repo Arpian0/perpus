@@ -2,6 +2,7 @@
 
 namespace App\Controllers;
 
+use App\Models\MemberModel;
 use CodeIgniter\Controller;
 
 class Dashboard extends Controller
@@ -23,7 +24,10 @@ class Dashboard extends Controller
 
     public function anggota()
     {
-        echo view('dashboard/anggota');
+        $model = new MemberModel();
+        $data['members'] = $model->findAll();
+
+        return view('dashboard/anggota', $data);
     }
 
     public function buku()

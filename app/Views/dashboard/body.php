@@ -1,5 +1,7 @@
 <style>
-    .content {
+    #containter .content {
+        display: flex;
+        flex-direction: row;
         max-width: 100%;
         padding: 0 2%;
         margin: 0 auto;
@@ -27,7 +29,16 @@
     }
 </style>
 
-<div class="content">
-    <h2>Dashboard</h2>
-    <p>Ini adalah halaman dashboard perpustakaan.</p>
+<?php include('header.php'); ?>
+
+<div class="container">
+    <div class="sidebar" id="sidebar">
+        <?php include('sidebar.php'); ?>
+    </div>
+    <div class="content" id="content">
+        <h2>Dashboard</h2>
+        <p>Ini adalah halaman dashboard perpustakaan.</p>
+    </div>
 </div>
+
+<?php include('footer.php'); ?>

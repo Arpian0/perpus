@@ -1,5 +1,7 @@
 <style>
-    .content {
+    #containter .content {
+        display: flex;
+        flex-direction: row;
         max-width: 100%;
         padding: 0 2%;
         margin: 0 auto;
@@ -27,15 +29,16 @@
     }
 </style>
 
+<?php include('header.php'); ?>
 
-<div class="content" id="content">
-    <h2>Admin</h2>
-    <p>Ini adalah halaman dashboard perpustakaan.</p>
-    <ul>
-        <li id="menu-dashboard"><a href="anggota">Anggota</a></li>
-        <li id="menu-profile"><a href="buku">Buku</a></li>
-        <li id="menu-settings"><a href="kategori">Kategori</a></li>
-    </ul>
-
-    <script src="/app/java/menu.js"></script>
+<div class="container">
+    <div class="sidebar" id="sidebar">
+        <?php include('sidebar.php'); ?>
+    </div>
+    <div class="content" id="content">
+        <h2>Admin</h2>
+        <p>Ini adalah halaman dashboard perpustakaan.</p>
+    </div>
 </div>
+
+<?php include('footer.php'); ?>

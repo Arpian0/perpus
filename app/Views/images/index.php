@@ -14,6 +14,12 @@
         </p>
     </div>
 </section>
+<div class="nav-search" style="display: block;">
+    <form method="get" action="/" role="search" style="width: 100%;">
+        <input type="text" name="s" value="" id="s" placeholder="Cari Disini...Enter" size="30" autocomplete="off" style="width: 100%;height: 40px;text-align: center;">
+    </form>
+</div>
+<span class="m-search"></span>
 
 <section class="gallery py-5 bg-light">
     <div class="container mt-5">

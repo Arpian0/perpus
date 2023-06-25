@@ -63,6 +63,11 @@ $routes->group('image', function ($routes) {
     $routes->post('/', 'ImageController::store'); //tambahkan kode ini
 });
 
+$routes->get('members', 'MemberController::index');
+$routes->get('members/create', 'MemberController::create');
+$routes->post('members/store', 'MemberController::store');
+
+
 
 
 /*

@@ -78,13 +78,6 @@
         <a class="text" href="logout">Logout</a>
     </header>
 
-    <script>
-        var sidebar = document.getElementById('sidebar');
-        var content = document.getElementById('content');
-
-        sidebar.style.float = 'left';
-        content.style.marginLeft = '20%';
-    </script>
 </body>
 
 </html>
