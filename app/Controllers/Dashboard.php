@@ -12,11 +12,6 @@ class Dashboard extends Controller
         return view('dashboard/index');
     }
 
-    public function body()
-    {
-        echo view('dashboard/body');
-    }
-
     public function admin()
     {
         echo view('dashboard/admin');

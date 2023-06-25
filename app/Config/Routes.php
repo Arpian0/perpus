@@ -66,6 +66,7 @@ $routes->group('image', function ($routes) {
 $routes->get('members', 'MemberController::index');
 $routes->get('members/create', 'MemberController::create');
 $routes->post('members/store', 'MemberController::store');
+$routes->post('members/delete/(:num)', 'MemberController::delete/$1');
 
 
 

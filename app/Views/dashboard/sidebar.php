@@ -40,7 +40,7 @@
 
 <div class="sidebar" id="sidebar">
     <ul>
-        <li><a href="body">Dashboard</a></li>
+        <li><a href="dashboard">Dashboard</a></li>
         <li><a href="admin">Admin</a></li>
         <li><a href="anggota">Anggota</a></li>
         <li><a href="buku">Buku</a></li>

@@ -25,4 +25,12 @@ class MemberController extends Controller
 
         return redirect()->to('anggota');
     }
+
+    public function delete($id)
+    {
+        $model = new MemberModel();
+        $model->delete($id);
+
+        return redirect()->to('anggota');
+    }
 }

@@ -27,6 +27,38 @@
             font-size: 3vw;
         }
     }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th,
+    td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    tr:hover {
+        background-color: #f5f5f5;
+    }
+
+    button {
+        padding: 6px 12px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: #45a049;
+    }
 </style>
 
 <?php include('header.php'); ?>
@@ -40,12 +72,14 @@
         <p>Ini adalah halaman dashboard perpustakaan.</p>
         <form action="<?= base_url('members/create') ?>">
             <div>
+                <button style="margin: 2%;">Tambah Anggota</button>
                 <table>
                     <tr>
                         <th>ID</th>
                         <th>Nama</th>
                         <th>Email</th>
                         <th>Waktu Pembuatan</th>
+                        <th>Action</th>
                     </tr>
                     <?php foreach ($members as $member) : ?>
                         <tr>
@@ -53,11 +87,15 @@
                             <td><?php echo $member['name']; ?></td>
                             <td><?php echo $member['email']; ?></td>
                             <td><?php echo $member['created_at']; ?></td>
+                            <td class="content">
+                                <form method="post" action="<?php echo base_url('members/delete/' . $member['id']); ?>">
+                                    <button type="submit">Hapus</button>
+                                </form>
+                            </td>
                         </tr>
                     <?php endforeach; ?>
                 </table>
             </div>
-            <button>Tambah Anggota</button>
         </form>
     </div>
 </div>
