@@ -69,7 +69,7 @@
     </div>
     <div class="content" id="content">
         <h2>Anggota</h2>
-        <p>Ini adalah halaman dashboard perpustakaan.</p>
+        <p>Ini adalah halaman anggota perpustakaan.</p>
         <form action="<?= base_url('members/create') ?>">
             <div>
                 <button style="margin: 2%;">Tambah Anggota</button>

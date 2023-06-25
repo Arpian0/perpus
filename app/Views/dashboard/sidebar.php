@@ -1,8 +1,9 @@
 <style>
     .sidebar {
-        width: 20%;
-        background-color: #f1f1f1;
-        padding: 10px;
+        width: 250px;
+        background-color: #C71585;
+        padding: 2%;
+        border-radius: 5px;
     }
 
     .sidebar ul {
@@ -11,16 +12,30 @@
     }
 
     .sidebar li {
+        text-align: center;
         margin-bottom: 1%;
     }
 
     .sidebar a {
         display: block;
         text-decoration: none;
-        color: #333;
-        font-size: 2vw;
-        white-space: nowrap;
+        color: #000000;
+        font-size: 30px;
         margin-bottom: 2vw;
+        background-color: #ddd;
+        border-radius: 5px;
+    }
+
+    /* Styling saat tautan (link) aktif */
+    .sidebar a.active {
+        background-color: #555;
+        color: #fff;
+    }
+
+    /* Styling saat tautan (link) dihover */
+    .sidebar a:hover {
+        background-color: #888;
+        color: #fff;
     }
 
     @media (max-width: 768px) {

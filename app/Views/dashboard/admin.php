@@ -37,7 +37,7 @@
     </div>
     <div class="content" id="content">
         <h2>Admin</h2>
-        <p>Ini adalah halaman dashboard perpustakaan.</p>
+        <p>Ini adalah halaman admin perpustakaan.</p>
     </div>
 </div>
 

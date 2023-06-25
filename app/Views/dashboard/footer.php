@@ -1,10 +1,10 @@
 <footer>
-    <p>Ini adalah footer</p>
+    <h6>Instagram : By @arpian_wilovear</h6>
 </footer>
 
 <style>
     footer {
-        background-color: #333;
+        background-color: #FFA500;
         color: #fff;
         padding: 1%;
         text-align: center;

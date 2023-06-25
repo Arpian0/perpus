@@ -20,7 +20,7 @@
         }
 
         header {
-            background-color: #333;
+            background-color: #FFA500;
             color: #fff;
             padding: 1%;
             display: flex;
@@ -74,7 +74,7 @@
 <body>
     <header>
         <i class="material-icons">dashboard</i>
-        <h1>Header</h1>
+        <h1>Perpustakaan</h1>
         <a class="text" href="logout">Logout</a>
     </header>
 
