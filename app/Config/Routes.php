@@ -68,6 +68,18 @@ $routes->get('members/create', 'MemberController::create');
 $routes->post('members/store', 'MemberController::store');
 $routes->post('members/delete/(:num)', 'MemberController::delete/$1');
 
+$routes->get('/books', 'Books::index');
+$routes->get('/books/create', 'Books::create');
+$routes->post('/books/store', 'Books::store');
+$routes->get('/books/edit/(:num)', 'Books::edit/$1');
+$routes->post('/books/update/(:num)', 'Books::update/$1');
+$routes->get('/books/delete/(:num)', 'Books::delete/$1');
+
+$routes->get('/borrows', 'Borrows::index');
+$routes->get('/borrows/create', 'Borrows::create');
+$routes->post('/borrows/store', 'Borrows::store');
+$routes->get('/borrows/returnBook/(:num)', 'Borrows::returnBook/$1');
+
 
 
 

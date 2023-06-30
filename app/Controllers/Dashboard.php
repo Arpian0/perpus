@@ -2,6 +2,8 @@
 
 namespace App\Controllers;
 
+use App\Models\BookModel;
+use App\Models\BorrowModel;
 use App\Models\MemberModel;
 use CodeIgniter\Controller;
 
@@ -37,11 +39,17 @@ class Dashboard extends Controller
 
     public function peminjaman()
     {
-        echo view('dashboard/peminjaman');
+        $model = new BookModel();
+        $data['books'] = $model->findAll();
+
+        echo view('dashboard/peminjaman', $data);
     }
 
     public function pengembalian()
     {
-        echo view('dashboard/pengembalian');
+        $model = new BorrowModel();
+        $data['borrows'] = $model->findAll();
+
+        echo view('dashboard/pengembalian', $data);
     }
 }
