@@ -32,7 +32,7 @@ class Books extends Controller
 
         $model->insert($data);
 
-        return redirect()->to('peminjaman');
+        return redirect()->to('buku');
     }
 
     public function edit($id)
@@ -54,7 +54,7 @@ class Books extends Controller
 
         $model->update($id, $data);
 
-        return redirect()->to('peminjaman');
+        return redirect()->to('buku');
     }
 
     public function delete($id)
@@ -62,6 +62,6 @@ class Books extends Controller
         $model = new BookModel();
         $model->delete($id);
 
-        return redirect()->to('peminjaman');
+        return redirect()->to('buku');
     }
 }

@@ -75,7 +75,7 @@
                 <button style="margin: 2%;">Tambah Anggota</button>
                 <table>
                     <tr>
-                        <th>ID</th>
+                        <th>ID Anggota</th>
                         <th>Nama</th>
                         <th>Email</th>
                         <th>Waktu Pembuatan</th>

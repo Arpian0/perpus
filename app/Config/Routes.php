@@ -80,6 +80,20 @@ $routes->get('/borrows/create', 'Borrows::create');
 $routes->post('/borrows/store', 'Borrows::store');
 $routes->get('/borrows/returnBook/(:num)', 'Borrows::returnBook/$1');
 
+$routes->get('/loans', 'LoanController::index');
+$routes->get('/loans/create', 'LoanController::create');
+$routes->post('/loans/store', 'LoanController::store');
+$routes->get('/loans/edit/(:num)', 'LoanController::edit/$1');
+$routes->post('/loans/update', 'LoanController::update');
+$routes->post('/loans/delete/(:num)', 'LoanController::delete/$1');
+$routes->get('/loans/return/(:num)', 'LoanController::showReturnForm/$1');
+$routes->post('/loans/return/(:num)', 'LoanController::returnBook/$1');
+
+
+// app/Config/Routes.php
+
+
+
 
 
 

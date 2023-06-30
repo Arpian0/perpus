@@ -4,6 +4,7 @@ namespace App\Controllers;
 
 use App\Models\BookModel;
 use App\Models\BorrowModel;
+use App\Models\LoanModel;
 use App\Models\MemberModel;
 use CodeIgniter\Controller;
 
@@ -29,7 +30,10 @@ class Dashboard extends Controller
 
     public function buku()
     {
-        echo view('dashboard/buku');
+        $model = new BookModel();
+        $data['books'] = $model->findAll();
+
+        echo view('dashboard/buku', $data);
     }
 
     public function kategori()
@@ -39,16 +43,16 @@ class Dashboard extends Controller
 
     public function peminjaman()
     {
-        $model = new BookModel();
-        $data['books'] = $model->findAll();
+        $model = new BorrowModel();
+        $data['borrows'] = $model->findAll();
 
         echo view('dashboard/peminjaman', $data);
     }
 
     public function pengembalian()
     {
-        $model = new BorrowModel();
-        $data['borrows'] = $model->findAll();
+        $model = new LoanModel();
+        $data['loans'] = $model->findAll();
 
         echo view('dashboard/pengembalian', $data);
     }

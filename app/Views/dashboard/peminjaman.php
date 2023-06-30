@@ -27,6 +27,38 @@
             font-size: 3vw;
         }
     }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th,
+    td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    tr:hover {
+        background-color: #f5f5f5;
+    }
+
+    button {
+        padding: 6px 12px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: #45a049;
+    }
 </style>
 
 <?php include('header.php'); ?>
@@ -38,28 +70,30 @@
     <div class="content" id="content">
         <h2>Peminjaman</h2>
         <p>Ini adalah halaman peminjaman perpustakaan.</p>
-        <a href="/books/create">Add Book</a>
-        <table>
-            <thead>
-                <tr>
-                    <th>Title</th>
-                    <th>Author</th>
-                    <th>Actions</th>
-                </tr>
-            </thead>
-            <tbody>
-                <?php foreach ($books as $book) : ?>
+        <form action="<?= base_url('/borrows/create') ?>">
+            <button>Pinjam Buku</button>
+
+            <table>
+                <thead>
                     <tr>
-                        <td><?= $book['title'] ?></td>
-                        <td><?= $book['author'] ?></td>
-                        <td>
-                            <a href="books/edit/<?= $book['id'] ?>">Edit</a>
-                            <a href="books/delete/<?= $book['id'] ?>">Delete</a>
-                        </td>
+                        <th>ID Peminjaman</th>
+                        <th>Nama Peminjam</th>
+                        <th>Tanggal Peminjaman</th>
+                        <th>Tanggal Pengembalian</th>
                     </tr>
-                <?php endforeach; ?>
-            </tbody>
-        </table>
+                </thead>
+                <tbody>
+                    <?php foreach ($borrows as $borrow) : ?>
+                        <tr>
+                            <td><?= $borrow['book_id'] ?></td>
+                            <td><?= $borrow['user_name'] ?></td>
+                            <td><?= $borrow['borrow_date'] ?></td>
+                            <td><?= $borrow['return_date'] ?></td>
+                        </tr>
+                    <?php endforeach; ?>
+                </tbody>
+            </table>
+        </form>
     </div>
 </div>
 

@@ -40,7 +40,7 @@ class Borrows extends Controller
         $bookModel = new BookModel();
         $bookModel->update($data['book_id'], ['available' => 0]);
 
-        return redirect()->to('pengembalian');
+        return redirect()->to('peminjaman');
     }
 
     public function returnBook($id)
@@ -53,6 +53,6 @@ class Borrows extends Controller
 
         $model->delete($id);
 
-        return redirect()->to('pengembalian');
+        return redirect()->to('peminjaman');
     }
 }
